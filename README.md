@@ -4,6 +4,8 @@
 
 ![Eduarda GitHub stats](https://github-readme-stats.vercel.app/api?username=edrdaz&show_icons=true&theme=tokyonight)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edrdaz)](https://github.com/edrdaz/github-readme-stats)
+
 ### Tecnologias
 
 <div style="display: inline_block"><br/>
