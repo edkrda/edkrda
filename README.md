@@ -1,10 +1,10 @@
 ### Hello, World! I'm Eduarda 💕
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduarda-miranda-804026214/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduarda1305/)
 
-![Eduarda GitHub stats](https://github-readme-stats.vercel.app/api?username=edrdaz&show_icons=true&theme=tokyonight)
+![Eduarda GitHub stats](https://github-readme-stats.vercel.app/api?username=eduarda1305&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edrdaz)](https://github.com/edrdaz/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduarda1305)](https://github.com/eduarda1305/github-readme-stats)
 
 ### Tecnologias
 
