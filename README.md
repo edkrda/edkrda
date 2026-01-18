@@ -1,16 +1,10 @@
 <!-- Your title -->
 <h1 align="center"> 𝐇𝐞𝐥𝐥𝐨, 𝐖𝐨𝐫𝐥𝐝! </h1>
 
-<!-- Your badges
-You can use the website to generate badges: https://shields.io/
--->
-
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/edkrda)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eduardamiranda13/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:edufrda@gmail.com)
 
 
-&nbsp;
+
+
 
 <!-- Talking about you -->
 <h2> ❤️ SOBRE MIM </h2>
@@ -19,6 +13,11 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na Facens e apaixona
 
 * 💻 Foco atual: **Java (Spring Boot), React.js e Python (Pandas)**.
 * 📈 Adoro trabalhar com métricas, relatórios técnicos e metodologias ágeis como Scrum e Kanban.
+
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/edkrda)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eduardamiranda13/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:edufrda@gmail.com)
+
 
 
 
