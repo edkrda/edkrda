@@ -48,7 +48,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na Facens e apaixona
 
 <p >
 <a href="https://github.com/edkrda/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=mayhemantt&&show_icons=true&theme=radical"/>
+    <img  src="https://github-readme-stats.vercel.app/api?username=edkrda&&show_icons=true&theme=radical"/>
   </a>
 
 
