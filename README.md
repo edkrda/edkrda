@@ -16,7 +16,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na Facens e apaixona
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/edkrda)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eduardamiranda13/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:edufrda@gmail.com)
+
 
 
 
