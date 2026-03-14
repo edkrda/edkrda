@@ -1,19 +1,21 @@
-<!-- Your title -->
-<h1 align="center"> 𝐇𝐞𝐥𝐥𝐨, 𝐖𝐨𝐫𝐥𝐝! </h1>
+<h1 align="center">Hello, World!</h1>
 
-
-
-
+<p align="center">
+Full Stack Developer in Training
+</p>
 
 
 <!-- Talking about you -->
 <h2> SOBRE MIM </h2>
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** na Facens e apaixonada por transformar dados em soluções e linhas de código em software funcional. Tenho experiência prática unindo **Desenvolvimento Fullstack** e **Análise de Dados**.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** na Facens.  
+Tenho interesse em **engenharia de software, análise de dados e desenvolvimento full stack**.
 
-* Foco atual: **Java (Spring Boot), React.js e Python (Pandas)**.
-* Adoro trabalhar com métricas, relatórios técnicos e metodologias ágeis como Scrum e Kanban.
-
+Atualmente estudo:
+- Java / Spring Boot
+- React
+- Python
+- Banco de dados
 
 <p align="center">
 
