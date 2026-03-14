@@ -23,17 +23,10 @@ Full Stack Developer in Training
 
 <!-- Talking about you -->
 
-## Sobre Mim
-
 Sou estudante de **Análise e Desenvolvimento de Sistemas** na Facens e tenho grande interesse em transformar dados e ideias em soluções tecnológicas úteis e eficientes. Gosto de explorar como a tecnologia pode ser aplicada para resolver problemas reais e melhorar processos através do desenvolvimento de software.
-
-Minha jornada na programação começou com curiosidade sobre como sistemas funcionam por trás das interfaces que usamos diariamente. Desde então venho aprofundando meus estudos em **desenvolvimento full stack, engenharia de software e análise de dados**, buscando sempre aprender novas ferramentas e boas práticas de desenvolvimento.
-
 Atualmente estou focada em expandir meus conhecimentos em tecnologias modernas e muito utilizadas no mercado, como **Java com Spring Boot, JavaScript, Python e bancos de dados relacionais**. Também tenho interesse em arquitetura de sistemas, integração de APIs e construção de aplicações escaláveis.
-
 Além da parte técnica, valorizo bastante a organização e a colaboração em projetos. Por isso também estudo e aplico metodologias de trabalho como **Scrum e Kanban**, que ajudam equipes a desenvolver software de forma mais eficiente e estruturada.
 
-Meu objetivo é continuar evoluindo como desenvolvedora, construindo projetos que demonstrem minhas habilidades técnicas, capacidade de aprendizado e paixão por tecnologia. Aqui no meu GitHub você encontrará projetos, experimentos e estudos que fazem parte da minha jornada de crescimento na área de desenvolvimento de software.
 
 
 
