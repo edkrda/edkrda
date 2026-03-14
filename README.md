@@ -13,11 +13,13 @@
 
 </p>
 
+
 ##
 <p>
 Full Stack Developer in Training
 </p>
 
+<img align="right" src="iconside.jpg" width="250">
 
 <!-- Talking about you -->
 
