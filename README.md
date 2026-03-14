@@ -14,8 +14,8 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na Facens e apaixona
 * Foco atual: **Java (Spring Boot), React.js e Python (Pandas)**.
 * Adoro trabalhar com métricas, relatórios técnicos e metodologias ágeis como Scrum e Kanban.
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/edkrda)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eduardamiranda13/)
+![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)
+![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)
 
 
 
@@ -33,7 +33,24 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na Facens e apaixona
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-000000?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
 
+
+
+##
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=edkrda&show_icons=true&theme=dark"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edkrda&layout=compact&theme=dark"/>
+
+</p>
 
 ##
 
