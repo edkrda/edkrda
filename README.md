@@ -1,6 +1,18 @@
 <p align="center">
   <img src="banner (2).jpg" width="500">
 </p>
+<p align="center">
+
+<a href="https://github.com/edkrda">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/eduardamiranda13">
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+</p>
+
 
 <p>
 Full Stack Developer in Training
@@ -14,17 +26,6 @@ Tenho interesse em **engenharia de software, análise de dados e desenvolvimento
 
 
 
-<p align="center">
-
-<a href="https://github.com/edkrda">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<a href="https://www.linkedin.com/in/eduardamiranda13">
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-</p>
 
 
 
