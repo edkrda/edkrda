@@ -12,14 +12,14 @@
 </a>
 
 </p>
-
+<img align="right" src="iconside.jpg" width="200">
 
 ##
 <p>
 Full Stack Developer in Training
 </p>
 
-<img align="right" src="iconside.jpg" width="200">
+
 
 <!-- Talking about you -->
 
