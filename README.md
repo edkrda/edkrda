@@ -16,7 +16,7 @@
 
 ##
 <p>
-Full Stack Developer in Training
+<h2>Full Stack Developer in Training</h2>
 </p>
 
 
