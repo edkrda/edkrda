@@ -2,15 +2,14 @@
   <img src="banner (2).jpg" width="500">
 </p>
 
-<p align="center">
+<p>
 Full Stack Developer in Training
 </p>
 
 
 <!-- Talking about you -->
-<h2> SOBRE MIM </h2>
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** na Facens.  
+Estudante de **Análise e Desenvolvimento de Sistemas** na Facens.  
 Tenho interesse em **engenharia de software, análise de dados e desenvolvimento full stack**.
 
 
