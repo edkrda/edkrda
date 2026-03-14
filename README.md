@@ -37,8 +37,6 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na Facens e apaixona
 
 <h2> ⚙️ FERRAMENTAS </h2>
 
-## 🚀 Technologies
-
 ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
@@ -52,15 +50,6 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na Facens e apaixona
 
 
 
-##
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=edkrda&show_icons=true&theme=dark"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edkrda&layout=compact&theme=dark"/>
-
-</p>
 
 ##
 
