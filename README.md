@@ -19,7 +19,7 @@
 Full Stack Developer in Training
 </p>
 
-<img align="right" src="iconside.jpg" width="170">
+<img align="right" src="iconside.jpg" width="200">
 
 <!-- Talking about you -->
 
