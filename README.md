@@ -14,8 +14,18 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na Facens e apaixona
 * Foco atual: **Java (Spring Boot), React.js e Python (Pandas)**.
 * Adoro trabalhar com métricas, relatórios técnicos e metodologias ágeis como Scrum e Kanban.
 
-![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)
-![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)
+
+<p align="center">
+
+<a href="https://github.com/edkrda">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/eduardamiranda13">
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+</p>
 
 
 
