@@ -12,19 +12,23 @@
 </a>
 
 </p>
-<img align="right" src="iconside.jpg" width="190">
+
 
 ##
 <p>
-<h2>Full Stack Developer in Training</h2>
+Full Stack Developer in Training
 </p>
+<img align="right" src="iconside.jpg" width="160">
+
 
 
 
 <!-- Talking about you -->
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** na Facens e tenho grande interesse em transformar dados e ideias em soluções tecnológicas úteis e eficientes. Gosto de explorar como a tecnologia pode ser aplicada para resolver problemas reais e melhorar processos através do desenvolvimento de software.
+
 Atualmente estou focada em expandir meus conhecimentos em tecnologias modernas e muito utilizadas no mercado, como **Java com Spring Boot, JavaScript, Python e bancos de dados relacionais**. Também tenho interesse em arquitetura de sistemas, integração de APIs e construção de aplicações escaláveis.
+
 Além da parte técnica, valorizo bastante a organização e a colaboração em projetos. Por isso também estudo e aplico metodologias de trabalho como **Scrum e Kanban**, que ajudam equipes a desenvolver software de forma mais eficiente e estruturada.
 
 
