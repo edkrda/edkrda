@@ -11,11 +11,7 @@ Full Stack Developer in Training
 Sou estudante de **Análise e Desenvolvimento de Sistemas** na Facens.  
 Tenho interesse em **engenharia de software, análise de dados e desenvolvimento full stack**.
 
-Atualmente estudo:
-- Java / Spring Boot
-- React
-- Python
-- Banco de dados
+
 
 <p align="center">
 
