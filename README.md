@@ -1,4 +1,6 @@
-<h1 align="center">Hello, World!</h1>
+<p align="center">
+  <img src="banner (2).png" width="900">
+</p>
 
 <p align="center">
 Full Stack Developer in Training
