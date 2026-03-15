@@ -24,12 +24,13 @@
 
 <!-- Talking about you -->
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** na Facens e tenho grande interesse em transformar dados e ideias em soluções tecnológicas úteis e eficientes. Gosto de explorar como a tecnologia pode ser aplicada para resolver problemas reais e melhorar processos através do desenvolvimento de software.
+I am a technology student passionate about programming, data, and building solutions that can solve real-world problems. I enjoy learning new technologies and applying them in practical projects that help me improve both my technical knowledge and problem-solving skills.
 
-Atualmente estou focada em expandir meus conhecimentos em tecnologias modernas e muito utilizadas no mercado, como **Java com Spring Boot, JavaScript, Python e bancos de dados relacionais**. Também tenho interesse em arquitetura de sistemas, integração de APIs e construção de aplicações escaláveis.
+My main interests include software development, data analysis, and technology applied to real business scenarios. I have experience working with tools and technologies such as Python, SQL Server, Linux, HTML, CSS, and JavaScript. Through my projects, I aim to combine data, logic, and programming to create useful systems, automate processes, and generate insights from information.
 
-Além da parte técnica, valorizo bastante a organização e a colaboração em projetos. Por isso também estudo e aplico metodologias de trabalho como **Scrum e Kanban**, que ajudam equipes a desenvolver software de forma mais eficiente e estruturada.
+I enjoy exploring how data can be used to support decision-making and how technology can improve efficiency in different areas. Many of my projects focus on analyzing information, building databases, and developing systems that organize and transform data into meaningful results.
 
+Currently, I am focused on improving my programming skills, learning more about databases, software development, and modern technologies used in the tech industry. I am also interested in developing projects related to data platforms, analytics, and innovative solutions that connect technology with real market needs.
 
 
 
