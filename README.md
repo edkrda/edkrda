@@ -40,7 +40,7 @@ Além da parte técnica, valorizo bastante a organização e a colaboração em 
 
 
 
-
+<p> </p>
 
 
 <h2> Technologies </h2>
