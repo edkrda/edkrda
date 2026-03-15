@@ -17,7 +17,7 @@
 ##
 
 
-<img align="right" src="iconside.jpg" width="160">
+<img align="right" src="iconside.jpg" width="159">
 
 
 
