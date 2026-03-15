@@ -30,9 +30,6 @@ My main interests include software development, data analysis, and technology ap
 
 I enjoy exploring how data can be used to support decision-making and how technology can improve efficiency in different areas. Many of my projects focus on analyzing information, building databases, and developing systems that organize and transform data into meaningful results.
 
-Currently, I am focused on improving my programming skills, learning more about databases, software development, and modern technologies used in the tech industry. I am also interested in developing projects related to data platforms, analytics, and innovative solutions that connect technology with real market needs.
-
-
 
 
 
